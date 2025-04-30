@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>500</width>
-    <height>400</height>
+    <width>600</width>
+    <height>700</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -19,10 +19,38 @@
   </property>
   <layout class="QVBoxLayout" name="verticalLayout">
    <item>
+    <widget class="QLabel" name="labelLogo">
+     <property name="minimumSize">
+      <size>
+       <width>100</width>
+       <height>100</height>
+      </size>
+     </property>
+     <property name="maximumSize">
+      <size>
+       <width>100</width>
+       <height>100</height>
+      </size>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <property name="pixmap">
+      <pixmap>../assets/icons/logo_rabisco.ico</pixmap>
+     </property>
+     <property name="scaledContents">
+      <bool>true</bool>
+     </property>
+     <property name="alignment">
+      <set>Qt::AlignCenter</set>
+     </property>
+    </widget>
+   </item>
+   <item>
     <widget class="QLabel" name="labelTitulo">
      <property name="font">
       <font>
-       <pointsize>14</pointsize>
+       <pointsize>16</pointsize>
        <weight>75</weight>
        <bold>true</bold>
       </font>
@@ -53,15 +81,52 @@
    <item>
     <widget class="QLabel" name="labelDescricao">
      <property name="text">
-      <string>Um simples bloco de notas com recursos avançados de edição</string>
+      <string>Um editor de texto simples e prático com recursos avançados de edição</string>
      </property>
      <property name="alignment">
       <set>Qt::AlignCenter</set>
+     </property>
+     <property name="wordWrap">
+      <bool>true</bool>
      </property>
     </widget>
    </item>
    <item>
     <widget class="Line" name="line">
+     <property name="orientation">
+      <enum>Qt::Horizontal</enum>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLabel" name="labelEstatisticas">
+     <property name="font">
+      <font>
+       <weight>75</weight>
+       <bold>true</bold>
+      </font>
+     </property>
+     <property name="text">
+      <string>Estatísticas do Projeto:</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLabel" name="labelArquivos">
+     <property name="text">
+      <string>Total de arquivos: 25</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLabel" name="labelLinhasCodigo">
+     <property name="text">
+      <string>Total de linhas de código: 4214</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="Line" name="line_3">
      <property name="orientation">
       <enum>Qt::Horizontal</enum>
      </property>
@@ -81,23 +146,120 @@
     </widget>
    </item>
    <item>
-    <widget class="QLabel" name="labelPython">
-     <property name="text">
-      <string>Python: 85%</string>
-     </property>
-    </widget>
-   </item>
-      <item>
-    <widget class="QLabel" name="labelPython">
-     <property name="text">
-      <string>Python: 85%</string>
-     </property>
-    </widget>
+    <layout class="QHBoxLayout" name="horizontalLayoutPython">
+     <item>
+      <widget class="QLabel" name="labelPython">
+       <property name="minimumSize">
+        <size>
+         <width>100</width>
+         <height>0</height>
+        </size>
+       </property>
+       <property name="text">
+        <string>Python:</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QProgressBar" name="progressBarPython">
+       <property name="value">
+        <number>85</number>
+       </property>
+       <property name="format">
+        <string>85%</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
    </item>
    <item>
-    <widget class="QLabel" name="labelQT">
+    <layout class="QHBoxLayout" name="horizontalLayoutXML">
+     <item>
+      <widget class="QLabel" name="labelXML">
+       <property name="minimumSize">
+        <size>
+         <width>100</width>
+         <height>0</height>
+        </size>
+       </property>
+       <property name="text">
+        <string>XML (Qt/GTK):</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QProgressBar" name="progressBarXML">
+       <property name="value">
+        <number>10</number>
+       </property>
+       <property name="format">
+        <string>10%</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </item>
+   <item>
+    <layout class="QHBoxLayout" name="horizontalLayoutMarkdown">
+     <item>
+      <widget class="QLabel" name="labelMarkdown">
+       <property name="minimumSize">
+        <size>
+         <width>100</width>
+         <height>0</height>
+        </size>
+       </property>
+       <property name="text">
+        <string>Markdown:</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QProgressBar" name="progressBarMarkdown">
+       <property name="value">
+        <number>3</number>
+       </property>
+       <property name="format">
+        <string>3%</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </item>
+   <item>
+    <layout class="QHBoxLayout" name="horizontalLayoutBatch">
+     <item>
+      <widget class="QLabel" name="labelBatch">
+       <property name="minimumSize">
+        <size>
+         <width>100</width>
+         <height>0</height>
+        </size>
+       </property>
+       <property name="text">
+        <string>DOS Batch:</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QProgressBar" name="progressBarBatch">
+       <property name="value">
+        <number>2</number>
+       </property>
+       <property name="format">
+        <string>2%</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </item>
+   <item>
+    <widget class="QLabel" name="labelDataRelatorio">
      <property name="text">
-      <string>PyQt5: 15%</string>
+      <string>Relatório gerado em: 29/04/2025 22:14:18</string>
+     </property>
+     <property name="alignment">
+      <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
      </property>
     </widget>
    </item>
@@ -129,9 +291,29 @@
     </widget>
    </item>
    <item>
+    <widget class="QLabel" name="labelExperiencia">
+     <property name="text">
+      <string>Estudante de Programação e Profissional de Tecnologia desde 2011</string>
+     </property>
+     <property name="wordWrap">
+      <bool>true</bool>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLabel" name="labelAtuacao">
+     <property name="text">
+      <string>Atualmente atuando como Suporte N2 em Sistema Legado Delphi</string>
+     </property>
+     <property name="wordWrap">
+      <bool>true</bool>
+     </property>
+    </widget>
+   </item>
+   <item>
     <widget class="QLabel" name="labelData">
      <property name="text">
-      <string>Data de desenvolvimento: Abril de 2025</string>
+      <string>Data de desenvolvimento: 2025</string>
      </property>
     </widget>
    </item>
@@ -139,6 +321,16 @@
     <widget class="QLabel" name="labelGithub">
      <property name="text">
       <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;GitHub: &lt;a href=&quot;https://github.com/danilodevsys/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://github.com/danilodevsys/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+     </property>
+     <property name="openExternalLinks">
+      <bool>true</bool>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLabel" name="labelRepositorio">
+     <property name="text">
+      <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Repositório: &lt;a href=&quot;https://github.com/danilodevsys/Rabisco---Bloco-de-Notas&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://github.com/danilodevsys/Rabisco---Bloco-de-Notas&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
      </property>
      <property name="openExternalLinks">
       <bool>true</bool>
@@ -175,6 +367,12 @@
      </item>
      <item>
       <widget class="QPushButton" name="btnFechar">
+       <property name="minimumSize">
+        <size>
+         <width>100</width>
+         <height>0</height>
+        </size>
+       </property>
        <property name="text">
         <string>Fechar</string>
        </property>
