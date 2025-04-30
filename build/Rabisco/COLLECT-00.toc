@@ -1,0 +1,787 @@
+([('Rabisco.exe',
+   'C:\\Users\\D '
+   'Móveis\\Desktop\\Funcional\\Rabisco\\build\\Rabisco\\Rabisco.exe',
+   'EXECUTABLE'),
+  ('python311.dll',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\opengl32sw.dll',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\bin\\opengl32sw.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\libEGL.dll',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\bin\\libEGL.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\d3dcompiler_47.dll',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\bin\\d3dcompiler_47.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\libGLESv2.dll',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\bin\\libGLESv2.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qtiff.dll',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qtiff.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qtga.dll',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qtga.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\generic\\qtuiotouchplugin.dll',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\plugins\\generic\\qtuiotouchplugin.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\iconengines\\qsvgicon.dll',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\plugins\\iconengines\\qsvgicon.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qgif.dll',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qgif.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\platforms\\qoffscreen.dll',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\plugins\\platforms\\qoffscreen.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\platforms\\qwebgl.dll',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\plugins\\platforms\\qwebgl.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\platforms\\qminimal.dll',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\plugins\\platforms\\qminimal.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qicns.dll',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qicns.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qjpeg.dll',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qjpeg.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qico.dll',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qico.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qwebp.dll',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qwebp.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\platformthemes\\qxdgdesktopportal.dll',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\plugins\\platformthemes\\qxdgdesktopportal.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\platforms\\qwindows.dll',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\plugins\\platforms\\qwindows.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qsvg.dll',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qsvg.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qwbmp.dll',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qwbmp.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\printsupport\\windowsprintersupport.dll',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\plugins\\printsupport\\windowsprintersupport.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\styles\\qwindowsvistastyle.dll',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\plugins\\styles\\qwindowsvistastyle.dll',
+   'BINARY'),
+  ('_decimal.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('select.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('PyQt5\\QtCore.pyd',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\QtCore.pyd',
+   'EXTENSION'),
+  ('PyQt5\\sip.cp311-win_amd64.pyd',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\sip.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('_elementtree.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs\\_elementtree.pyd',
+   'EXTENSION'),
+  ('pyexpat.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('PyQt5\\QtGui.pyd',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\QtGui.pyd',
+   'EXTENSION'),
+  ('PyQt5\\QtPrintSupport.pyd',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\QtPrintSupport.pyd',
+   'EXTENSION'),
+  ('PyQt5\\QtWidgets.pyd',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\QtWidgets.pyd',
+   'EXTENSION'),
+  ('VCRUNTIME140.dll',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\VCRUNTIME140.dll',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\bin\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\VCRUNTIME140_1.dll',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\bin\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\MSVCP140.dll',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\bin\\MSVCP140.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5Core.dll',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Core.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5Gui.dll',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Gui.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5Network.dll',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Network.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5Svg.dll',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Svg.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5Quick.dll',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Quick.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5WebSockets.dll',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\bin\\Qt5WebSockets.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5DBus.dll',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\bin\\Qt5DBus.dll',
+   'BINARY'),
+  ('VCRUNTIME140_1.dll',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5PrintSupport.dll',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\bin\\Qt5PrintSupport.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5Widgets.dll',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Widgets.dll',
+   'BINARY'),
+  ('libcrypto-3.dll',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs\\libcrypto-3.dll',
+   'BINARY'),
+  ('python3.dll',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python3.dll',
+   'BINARY'),
+  ('libssl-3.dll',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs\\libssl-3.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\MSVCP140_1.dll',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\bin\\MSVCP140_1.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5Qml.dll',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Qml.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5QmlModels.dll',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\bin\\Qt5QmlModels.dll',
+   'BINARY'),
+  ('assets\\icons\\abrir.png',
+   'C:\\Users\\D Móveis\\Desktop\\Funcional\\Rabisco\\assets\\icons\\abrir.png',
+   'DATA'),
+  ('assets\\icons\\ajuda.png',
+   'C:\\Users\\D Móveis\\Desktop\\Funcional\\Rabisco\\assets\\icons\\ajuda.png',
+   'DATA'),
+  ('assets\\icons\\calculadora.png',
+   'C:\\Users\\D '
+   'Móveis\\Desktop\\Funcional\\Rabisco\\assets\\icons\\calculadora.png',
+   'DATA'),
+  ('assets\\icons\\calendario.png',
+   'C:\\Users\\D '
+   'Móveis\\Desktop\\Funcional\\Rabisco\\assets\\icons\\calendario.png',
+   'DATA'),
+  ('assets\\icons\\colar.png',
+   'C:\\Users\\D Móveis\\Desktop\\Funcional\\Rabisco\\assets\\icons\\colar.png',
+   'DATA'),
+  ('assets\\icons\\cores.png',
+   'C:\\Users\\D Móveis\\Desktop\\Funcional\\Rabisco\\assets\\icons\\cores.png',
+   'DATA'),
+  ('assets\\icons\\cortar.png',
+   'C:\\Users\\D '
+   'Móveis\\Desktop\\Funcional\\Rabisco\\assets\\icons\\cortar.png',
+   'DATA'),
+  ('assets\\icons\\formatacao.png',
+   'C:\\Users\\D '
+   'Móveis\\Desktop\\Funcional\\Rabisco\\assets\\icons\\formatacao.png',
+   'DATA'),
+  ('assets\\icons\\icones_imagens\\abrir.ico',
+   'C:\\Users\\D '
+   'Móveis\\Desktop\\Funcional\\Rabisco\\assets\\icons\\icones_imagens\\abrir.ico',
+   'DATA'),
+  ('assets\\icons\\icones_imagens\\calendario.ico',
+   'C:\\Users\\D '
+   'Móveis\\Desktop\\Funcional\\Rabisco\\assets\\icons\\icones_imagens\\calendario.ico',
+   'DATA'),
+  ('assets\\icons\\icones_imagens\\colar.ico',
+   'C:\\Users\\D '
+   'Móveis\\Desktop\\Funcional\\Rabisco\\assets\\icons\\icones_imagens\\colar.ico',
+   'DATA'),
+  ('assets\\icons\\icones_imagens\\cores.ico',
+   'C:\\Users\\D '
+   'Móveis\\Desktop\\Funcional\\Rabisco\\assets\\icons\\icones_imagens\\cores.ico',
+   'DATA'),
+  ('assets\\icons\\icones_imagens\\cortar.ico',
+   'C:\\Users\\D '
+   'Móveis\\Desktop\\Funcional\\Rabisco\\assets\\icons\\icones_imagens\\cortar.ico',
+   'DATA'),
+  ('assets\\icons\\icones_imagens\\cortar.png',
+   'C:\\Users\\D '
+   'Móveis\\Desktop\\Funcional\\Rabisco\\assets\\icons\\icones_imagens\\cortar.png',
+   'DATA'),
+  ('assets\\icons\\icones_imagens\\nova_aba.png',
+   'C:\\Users\\D '
+   'Móveis\\Desktop\\Funcional\\Rabisco\\assets\\icons\\icones_imagens\\nova_aba.png',
+   'DATA'),
+  ('assets\\icons\\icones_imagens\\novo.ico',
+   'C:\\Users\\D '
+   'Móveis\\Desktop\\Funcional\\Rabisco\\assets\\icons\\icones_imagens\\novo.ico',
+   'DATA'),
+  ('assets\\icons\\icones_imagens\\novo.png',
+   'C:\\Users\\D '
+   'Móveis\\Desktop\\Funcional\\Rabisco\\assets\\icons\\icones_imagens\\novo.png',
+   'DATA'),
+  ('assets\\icons\\icones_imagens\\salva.ico',
+   'C:\\Users\\D '
+   'Móveis\\Desktop\\Funcional\\Rabisco\\assets\\icons\\icones_imagens\\salva.ico',
+   'DATA'),
+  ('assets\\icons\\imprimir.png',
+   'C:\\Users\\D '
+   'Móveis\\Desktop\\Funcional\\Rabisco\\assets\\icons\\imprimir.png',
+   'DATA'),
+  ('assets\\icons\\localizar.png',
+   'C:\\Users\\D '
+   'Móveis\\Desktop\\Funcional\\Rabisco\\assets\\icons\\localizar.png',
+   'DATA'),
+  ('assets\\icons\\logo_rabisco.ico',
+   'C:\\Users\\D '
+   'Móveis\\Desktop\\Funcional\\Rabisco\\assets\\icons\\logo_rabisco.ico',
+   'DATA'),
+  ('assets\\icons\\nova_aba.png',
+   'C:\\Users\\D '
+   'Móveis\\Desktop\\Funcional\\Rabisco\\assets\\icons\\nova_aba.png',
+   'DATA'),
+  ('assets\\icons\\sair.png',
+   'C:\\Users\\D Móveis\\Desktop\\Funcional\\Rabisco\\assets\\icons\\sair.png',
+   'DATA'),
+  ('assets\\icons\\salvar.png',
+   'C:\\Users\\D '
+   'Móveis\\Desktop\\Funcional\\Rabisco\\assets\\icons\\salvar.png',
+   'DATA'),
+  ('assets\\icons\\salvar_como.png',
+   'C:\\Users\\D '
+   'Móveis\\Desktop\\Funcional\\Rabisco\\assets\\icons\\salvar_como.png',
+   'DATA'),
+  ('assets\\icons\\tema.png',
+   'C:\\Users\\D Móveis\\Desktop\\Funcional\\Rabisco\\assets\\icons\\tema.png',
+   'DATA'),
+  ('src\\__pycache__\\configuracoes.cpython-312.pyc',
+   'C:\\Users\\D '
+   'Móveis\\Desktop\\Funcional\\Rabisco\\src\\__pycache__\\configuracoes.cpython-312.pyc',
+   'DATA'),
+  ('src\\__pycache__\\configuracoes.cpython-313.pyc',
+   'C:\\Users\\D '
+   'Móveis\\Desktop\\Funcional\\Rabisco\\src\\__pycache__\\configuracoes.cpython-313.pyc',
+   'DATA'),
+  ('src\\__pycache__\\dados.cpython-313.pyc',
+   'C:\\Users\\D '
+   'Móveis\\Desktop\\Funcional\\Rabisco\\src\\__pycache__\\dados.cpython-313.pyc',
+   'DATA'),
+  ('src\\__pycache__\\editor_texto.cpython-312.pyc',
+   'C:\\Users\\D '
+   'Móveis\\Desktop\\Funcional\\Rabisco\\src\\__pycache__\\editor_texto.cpython-312.pyc',
+   'DATA'),
+  ('src\\__pycache__\\editor_texto.cpython-313.pyc',
+   'C:\\Users\\D '
+   'Móveis\\Desktop\\Funcional\\Rabisco\\src\\__pycache__\\editor_texto.cpython-313.pyc',
+   'DATA'),
+  ('src\\__pycache__\\formatacao_dialog.cpython-312.pyc',
+   'C:\\Users\\D '
+   'Móveis\\Desktop\\Funcional\\Rabisco\\src\\__pycache__\\formatacao_dialog.cpython-312.pyc',
+   'DATA'),
+  ('src\\__pycache__\\formatacao_dialog.cpython-313.pyc',
+   'C:\\Users\\D '
+   'Móveis\\Desktop\\Funcional\\Rabisco\\src\\__pycache__\\formatacao_dialog.cpython-313.pyc',
+   'DATA'),
+  ('src\\__pycache__\\logica.cpython-313.pyc',
+   'C:\\Users\\D '
+   'Móveis\\Desktop\\Funcional\\Rabisco\\src\\__pycache__\\logica.cpython-313.pyc',
+   'DATA'),
+  ('src\\__pycache__\\rabisco_app.cpython-312.pyc',
+   'C:\\Users\\D '
+   'Móveis\\Desktop\\Funcional\\Rabisco\\src\\__pycache__\\rabisco_app.cpython-312.pyc',
+   'DATA'),
+  ('src\\__pycache__\\rabisco_app.cpython-313.pyc',
+   'C:\\Users\\D '
+   'Móveis\\Desktop\\Funcional\\Rabisco\\src\\__pycache__\\rabisco_app.cpython-313.pyc',
+   'DATA'),
+  ('src\\__pycache__\\rabisco_funcoes.cpython-312.pyc',
+   'C:\\Users\\D '
+   'Móveis\\Desktop\\Funcional\\Rabisco\\src\\__pycache__\\rabisco_funcoes.cpython-312.pyc',
+   'DATA'),
+  ('src\\__pycache__\\rabisco_funcoes.cpython-313.pyc',
+   'C:\\Users\\D '
+   'Móveis\\Desktop\\Funcional\\Rabisco\\src\\__pycache__\\rabisco_funcoes.cpython-313.pyc',
+   'DATA'),
+  ('src\\__pycache__\\run.cpython-313.pyc',
+   'C:\\Users\\D '
+   'Móveis\\Desktop\\Funcional\\Rabisco\\src\\__pycache__\\run.cpython-313.pyc',
+   'DATA'),
+  ('src\\__pycache__\\splash.cpython-312.pyc',
+   'C:\\Users\\D '
+   'Móveis\\Desktop\\Funcional\\Rabisco\\src\\__pycache__\\splash.cpython-312.pyc',
+   'DATA'),
+  ('src\\__pycache__\\splash.cpython-313.pyc',
+   'C:\\Users\\D '
+   'Móveis\\Desktop\\Funcional\\Rabisco\\src\\__pycache__\\splash.cpython-313.pyc',
+   'DATA'),
+  ('src\\__pycache__\\tela.cpython-313.pyc',
+   'C:\\Users\\D '
+   'Móveis\\Desktop\\Funcional\\Rabisco\\src\\__pycache__\\tela.cpython-313.pyc',
+   'DATA'),
+  ('src\\background_manager.py',
+   'C:\\Users\\D '
+   'Móveis\\Desktop\\Funcional\\Rabisco\\src\\background_manager.py',
+   'DATA'),
+  ('src\\configuracoes.py',
+   'C:\\Users\\D Móveis\\Desktop\\Funcional\\Rabisco\\src\\configuracoes.py',
+   'DATA'),
+  ('src\\cores_fundo.ui',
+   'C:\\Users\\D Móveis\\Desktop\\Funcional\\Rabisco\\src\\cores_fundo.ui',
+   'DATA'),
+  ('src\\dados.py',
+   'C:\\Users\\D Móveis\\Desktop\\Funcional\\Rabisco\\src\\dados.py',
+   'DATA'),
+  ('src\\dados\\rabisco.db',
+   'C:\\Users\\D Móveis\\Desktop\\Funcional\\Rabisco\\src\\dados\\rabisco.db',
+   'DATA'),
+  ('src\\editor_texto.py',
+   'C:\\Users\\D Móveis\\Desktop\\Funcional\\Rabisco\\src\\editor_texto.py',
+   'DATA'),
+  ('src\\formatacao_dialog.py',
+   'C:\\Users\\D '
+   'Móveis\\Desktop\\Funcional\\Rabisco\\src\\formatacao_dialog.py',
+   'DATA'),
+  ('src\\fundo_manager.py',
+   'C:\\Users\\D Móveis\\Desktop\\Funcional\\Rabisco\\src\\fundo_manager.py',
+   'DATA'),
+  ('src\\logica.py',
+   'C:\\Users\\D Móveis\\Desktop\\Funcional\\Rabisco\\src\\logica.py',
+   'DATA'),
+  ('src\\notificacao.ui',
+   'C:\\Users\\D Móveis\\Desktop\\Funcional\\Rabisco\\src\\notificacao.ui',
+   'DATA'),
+  ('src\\rabisco_app.py',
+   'C:\\Users\\D Móveis\\Desktop\\Funcional\\Rabisco\\src\\rabisco_app.py',
+   'DATA'),
+  ('src\\rabisco_app_fixed.py',
+   'C:\\Users\\D '
+   'Móveis\\Desktop\\Funcional\\Rabisco\\src\\rabisco_app_fixed.py',
+   'DATA'),
+  ('src\\rabisco_funcoes.py',
+   'C:\\Users\\D Móveis\\Desktop\\Funcional\\Rabisco\\src\\rabisco_funcoes.py',
+   'DATA'),
+  ('src\\run.py',
+   'C:\\Users\\D Móveis\\Desktop\\Funcional\\Rabisco\\src\\run.py',
+   'DATA'),
+  ('src\\sobre.ui',
+   'C:\\Users\\D Móveis\\Desktop\\Funcional\\Rabisco\\src\\sobre.ui',
+   'DATA'),
+  ('src\\splash.py',
+   'C:\\Users\\D Móveis\\Desktop\\Funcional\\Rabisco\\src\\splash.py',
+   'DATA'),
+  ('src\\tela.py',
+   'C:\\Users\\D Móveis\\Desktop\\Funcional\\Rabisco\\src\\tela.py',
+   'DATA'),
+  ('src\\tela.ui',
+   'C:\\Users\\D Móveis\\Desktop\\Funcional\\Rabisco\\src\\tela.ui',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_it.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qt_it.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_es.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_es.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_lt.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qt_lt.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_tr.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_tr.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_cs.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_cs.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_sl.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qt_sl.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_pl.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_pl.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_sl.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_sl.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_bg.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_bg.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_de.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_de.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_he.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_he.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_fi.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qt_fi.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_ar.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qt_ar.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_pt.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qt_pt.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_it.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_it.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_ja.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_ja.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_ko.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qt_ko.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_ca.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qt_ca.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_en.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_en.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_fi.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_fi.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_sk.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_sk.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_zh_CN.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qt_zh_CN.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_ru.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qt_ru.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_de.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_de.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_ko.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_ko.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_sk.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_sk.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_pl.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_pl.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_bg.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qt_bg.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_sv.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qt_sv.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_fr.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_fr.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_it.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_it.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_ru.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ru.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_en.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qt_en.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_he.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qt_he.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_hu.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qt_hu.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_hu.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_hu.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_sk.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qt_sk.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_ja.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ja.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_tr.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_tr.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_da.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_da.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_lv.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_lv.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_ru.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_ru.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_uk.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qt_uk.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_ja.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qt_ja.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_da.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qt_da.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_uk.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_uk.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_ca.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_ca.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_cs.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qt_cs.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_hu.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_hu.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_zh_TW.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qt_zh_TW.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_zh_TW.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_zh_TW.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_uk.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_uk.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_de.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qt_de.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_bg.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_bg.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_fa.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qt_fa.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_lv.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qt_lv.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_en.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_en.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_pl.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qt_pl.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_gl.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qt_gl.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_fr.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_fr.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_zh_CN.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_zh_CN.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_tr.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qt_tr.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_ca.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ca.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_da.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_da.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_ar.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ar.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_ar.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_ar.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_ko.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ko.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_zh_TW.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_zh_TW.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_es.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_es.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_fr.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qt_fr.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_gd.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qt_gd.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_cs.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_cs.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_es.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qt_es.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_gd.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_gd.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_gl.qm',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_gl.qm',
+   'DATA'),
+  ('PyQt5\\uic\\widget-plugins\\qtquickwidgets.py',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\uic\\widget-plugins\\qtquickwidgets.py',
+   'DATA'),
+  ('PyQt5\\uic\\widget-plugins\\qtprintsupport.py',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\uic\\widget-plugins\\qtprintsupport.py',
+   'DATA'),
+  ('PyQt5\\uic\\widget-plugins\\qtwebenginewidgets.py',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\uic\\widget-plugins\\qtwebenginewidgets.py',
+   'DATA'),
+  ('PyQt5\\uic\\widget-plugins\\qtwebkit.py',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\uic\\widget-plugins\\qtwebkit.py',
+   'DATA'),
+  ('PyQt5\\uic\\widget-plugins\\qaxcontainer.py',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\uic\\widget-plugins\\qaxcontainer.py',
+   'DATA'),
+  ('PyQt5\\uic\\widget-plugins\\qtcharts.py',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\uic\\widget-plugins\\qtcharts.py',
+   'DATA'),
+  ('PyQt5\\uic\\widget-plugins\\qscintilla.py',
+   'C:\\Users\\D '
+   'Móveis\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyQt5\\uic\\widget-plugins\\qscintilla.py',
+   'DATA'),
+  ('base_library.zip',
+   'C:\\Users\\D '
+   'Móveis\\Desktop\\Funcional\\Rabisco\\build\\Rabisco\\base_library.zip',
+   'DATA')],)
